@@ -23,5 +23,5 @@ Welcome to the Books Index! Here, you'll find summaries, notes, and insights fro
 
 ### 📂 Explore More
 
-- [Back to Gnosis Index](../../00-Index.md)
+- [Back to Gnosis Index](../../00-Index/Index.md)
 - [Articles and Resources Index](../Articles-and-Resources/Articles-and-Resources-Index.md)

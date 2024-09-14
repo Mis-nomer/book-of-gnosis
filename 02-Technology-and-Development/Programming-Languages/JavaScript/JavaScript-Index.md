@@ -27,5 +27,5 @@ Welcome to the JavaScript Index! This section contains notes, tips, tricks, and 
 
 ### 📂 Explore More
 
-- [Back to Gnosis Index](../../../00-Index.md)
+- [Back to Gnosis Index](../../../00-Index/Index.md)
 - [TypeScript Index](../TypeScript/TypeScript-Index.md)

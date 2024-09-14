@@ -33,3 +33,6 @@
 **Thoughts / Notes**  
 <!-- Any additional thoughts, musings, or personal notes. -->
 
+### 📂 Explore More
+
+- [Back to Gnosis Index](../../00-Index/Index.md)

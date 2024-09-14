@@ -27,5 +27,5 @@ I found the sections on practical optimization particularly relevant, especially
 
 ### 📂 Explore More
 
-- [Back to Books Index](Books-Index.md)
-- [Back to Gnosis Index](../../00-Index.md)
+- [Back to Books Index](01-Literature-Notes/Books/Books-Index.md)
+- [Articles and Resources Index](../Articles-and-Resources/Articles-and-Resources-Index.md)

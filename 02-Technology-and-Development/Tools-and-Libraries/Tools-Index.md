@@ -31,5 +31,5 @@ This is the Tools and Libraries Index, where I keep notes on the tools and libra
 
 ### 📂 Explore More
 
-- [Back to Gnosis Index](../../../00-Index.md)
+- [Back to Gnosis Index](../../../00-Index/Index.md)
 - [JavaScript Index](../Programming-Languages/JavaScript/JavaScript-Index.md)
