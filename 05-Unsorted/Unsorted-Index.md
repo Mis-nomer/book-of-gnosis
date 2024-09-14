@@ -13,3 +13,6 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 Ultra-simplified explanation to design patterns
 
 ### [System Design](https://github.com/karanpratapsingh/system-design)
+
+### [Redact](https://redact.dev/download)
+An internet-based neuralyzer
