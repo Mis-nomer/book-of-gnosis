@@ -27,6 +27,10 @@ I'm using the Zettelkasten method to build a personal knowledge hub. It’s a wa
 
 Primarily, it’s for me to keep track of my learning and growth. But if you find something useful or interesting, feel free to explore and take whatever insights you need!
 
+## ❓️Where to start?
+
+Right [Here](00-Index/Index.md)
+
 ## 📢 Get in Touch
 
 Got a great book to recommend, an amazing new tool, or just wanna chat? Open an issue or drop a message—I’m always up for a conversation!
