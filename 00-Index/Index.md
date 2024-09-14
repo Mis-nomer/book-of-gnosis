@@ -3,31 +3,33 @@
 Welcome to my Obsidian vault! This is the main index that links to all the major sections of my notes. Feel free to explore!
 
 ## 📚 Literature Notes
-- [Books](01-Literature-Notes/Book-Title.md) - Summaries and thoughts on books I’ve read.
-- [Articles](01-Literature-Notes/Article-Title.md) - Notes on articles, papers, and essays.
-- [Other Resources](01-Literature-Notes/Resource-Title.md) - Anything else worth noting from blogs, videos, etc.
+- [Books](01-Literature-Notes/Books/Books-Index.md) - Summaries and thoughts on books I’ve read.
+- [Articles and Resources](01-Literature-Notes/Articles-and-Resources/Articles-and-Resources-Index.md) - Notes from articles, blogs, videos, and other resources.
 
-## 🛠️ Tech Toolbox
-- [JavaScript Tricks](02-Tech-Toolbox/JavaScript-Tricks.md) - Useful JavaScript snippets and tips.
-- [TypeScript Esoterica](02-Tech-Toolbox/TypeScript-Esoterica.md) - Wild TypeScript wizards' wisdom.
-- [Tools and Libraries](02-Tech-Toolbox/Tools-and-Libraries.md) - Cool tools and libraries worth checking out.
-
-## 🌐 Web Development
-- [Front-End](03-Web-Development/Front-End.md) - HTML, CSS, JavaScript, and front-end frameworks.
-- [Back-End](03-Web-Development/Back-End.md) - Server-side stuff, databases, and APIs.
-- [Full-Stack](03-Web-Development/Full-Stack.md) - Everything that blends front-end and back-end.
+## 🛠️ Technology and Development
+- **Programming Languages**
+  - [JavaScript](02-Technology-and-Development/Programming-Languages/JavaScript/JavaScript-Index.md) - Useful JavaScript snippets and tips.
+  - [TypeScript](02-Technology-and-Development/Programming-Languages/TypeScript/TypeScript-Index.md) - Insights into TypeScript.
+- **Tools and Libraries**
+  - [Tools and Libraries](02-Technology-and-Development/Tools-and-Libraries/Tools-Index.md) - Cool tools and libraries worth checking out.
+- **Web Development**
+  - [Front-End](02-Technology-and-Development/Web-Development/Front-End/Front-End-Index.md) - HTML, CSS, JavaScript, and front-end frameworks.
+  - [Back-End](02-Technology-and-Development/Web-Development/Back-End/Back-End-Index.md) - Server-side development, databases, and APIs.
+  - [Full-Stack](02-Technology-and-Development/Web-Development/Full-Stack/Full-Stack-Index.md) - Everything that blends front-end and back-end.
 
 ## 💡 Ideas and Projects
-- [Project Ideas](04-Ideas-and-Projects/Project-Ideas.md) - Concepts for future projects.
-- [Half-Baked Ideas](04-Ideas-and-Projects/Half-Baked-Ideas.md) - Early-stage or rough ideas.
+- [Active Projects](03-Ideas-and-Projects/Active-Projects/Projects-Index.md) - Current projects and their progress.
+- [Archived Ideas](03-Ideas-and-Projects/Archived-Ideas/Ideas-Index.md) - Concepts and early-stage ideas that I’ve shelved or put on hold.
 
 ## 🔍 Curiosities
-- [Philosophy](05-Curiosities/Philosophy.md) - Thoughts and notes on philosophical topics.
-- [Science](05-Curiosities/Science.md) - Interesting discoveries or topics in science.
-- [Miscellaneous](05-Curiosities/Miscellaneous.md) - Stuff that doesn't quite fit anywhere else.
+- [Philosophy](04-Curiosities/Philosophy/Philosophy-Index.md) - Thoughts and notes on philosophical topics.
+- [Science](04-Curiosities/Science/Science-Index.md) - Interesting discoveries or topics in science.
+
+## 🗃️ Unsorted
+- [Unsorted Notes](05-Unsorted/Unsorted-Index.md) - For everything that hasn’t been organized yet.
 
 ## 📂 Templates
-- [Note Template](Basic%20Note.md) - Use this template for creating new notes.
+- [Note Template](Templates/Note-Template.md) - Use this template for creating new notes.
 
 ## 📎 Attachments
 - [Images Folder](Attachments/images/) - A place for images, diagrams, and other attachments.
@@ -35,6 +37,6 @@ Welcome to my Obsidian vault! This is the main index that links to all the major
 ---
 
 ### 🔗 Quick Links
-- [Favorite Tools & Resources](#) - A quick list of go-to tools and resources.
+- [Favorite Tools & Resources](02-Technology-and-Development/Tools-and-Libraries/Tools-Index.md) - A quick list of go-to tools and resources.
 
 Feel free to dive into any section or use the search to find specific notes!
