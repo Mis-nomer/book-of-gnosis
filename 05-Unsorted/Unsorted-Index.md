@@ -2,7 +2,7 @@
 ### [Bench](https://github.com/denosaurs/bench?tab=readme-ov-file)
 A Daily benchmarks of [[deno]] & [[node]] & [[bun]] HTTP frameworks
 
-### [free-for.dev](free-for.dev)
+### [free-for.dev](https://free-for.dev)
 This is a list of software ([[SaaS]], [[PaaS]], [[IaaS]], etc.) and other offerings with free developer tiers.
 > [Alternative URL](https://github.com/ripienaar/free-for-dev)
 

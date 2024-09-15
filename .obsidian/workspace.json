@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "22f8a09f43db27f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55237e27bde8cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da39264b6a7b014f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/templater-obsidian/styles.css",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f5636f2e584359b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d45a16b738cabf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32f3a9b5d35e0a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8557c8498869c370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08e4f1a0b4169875",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "70d54138396f433f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2398c56bf3ab9b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751359a7f306cc72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13ad00620cbc456c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afae3fa5f1a6f645",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e76e23676c979d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "885557dce08f1628",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "da39264b6a7b014f",
+  "lastOpenFiles": [
+    "05-Unsorted/Unsorted-Index.md",
+    "01-Literature-Notes/Books/Optimization-Insights-and-Applications.md",
+    "01-Literature-Notes/Books/Books-Index.md",
+    "00-Index/Index.md",
+    "01-Literature-Notes/Articles-and-Resources/Articles-and-Resources-Index.md",
+    "README.md",
+    "02-Technology-and-Development/Programming-Languages/TypeScript/TypeScript-Index.md",
+    "00-Index.md",
+    "02-Technology-and-Development/Programming-Languages/TypeScript/TypeBox-vs-Zod.md",
+    "02-Technology-and-Development/Tools-and-Libraries/VSCode-Extensions.md",
+    "02-Technology-and-Development/Programming-Languages/JavaScript/JavaScript-Index.md",
+    "TypeScript/Understanding-Generics.md",
+    "TypeScript",
+    "02-Technology-and-Development/Tools-and-Libraries/Tools-Index.md",
+    "Books-Index.md",
+    "Templates/Note-Template.md",
+    "02-Technology-and-Development/Web-Development/Front-End/Front-End-Index.md",
+    "Attachments/images.md",
+    "Templates/Reading Reflection.md",
+    "Attachments/images",
+    "06-Unsorted/Unsorted-Index.md",
+    "().md",
+    "JavaScript/Async-Await-In-Depth.md",
+    "JavaScript",
+    "Books",
+    "04-Curiosities/Philosophy/Philosophy-Index.md",
+    "03-Ideas-and-Projects/Archived-Ideas/Ideas-Index.md",
+    "03-Ideas-and-Projects/Active-Projects/Projects-Index.md",
+    "02-Technology-and-Development/Web-Development/Full-Stack/Full-Stack-Index.md",
+    "02-Technology-and-Development/Web-Development/Back-End/Back-End-Index.md",
+    "05-Unsorted",
+    "04-Curiosities/Science",
+    "04-Curiosities/Philosophy",
+    "04-Curiosities",
+    "03-Ideas-and-Projects/Archived-Ideas",
+    "03-Ideas-and-Projects/Active-Projects",
+    "Pasted image 20240704130130.png"
+  ]
+}
